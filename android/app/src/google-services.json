@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1007664157726",
+    "project_id": "dates-user",
+    "storage_bucket": "dates-user.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1007664157726:android:8d3a024cd0732886534a0f",
+        "android_client_info": {
+          "package_name": "com.samwas.crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1007664157726-smf49um4u05868c4qkf46bfg8veg674o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgumLq7YXAhrpBXhARARavgFPyk3zFp1g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1007664157726-smf49um4u05868c4qkf46bfg8veg674o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
